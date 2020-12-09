@@ -19,7 +19,7 @@ Super Purposes™ | Seattle, WA <br>
 
 Designed a brand new website for Super Purposes that helps millions of job seekers find their dream job/careers  
 - Develop user profiles, building user scenarios, analyzing user surveys and feedback
-- Lead design thinking process including flows, wireframes, prototypes, high fidelity mockups and visual design specifications for  web and mobile
+- Lead design thinking process including flows, wireframes, prototypes, high fidelity mockups and visual design specifications for web and mobile
 - Collaborate with 15 cross- functional stakeholders including Developers/ Content Writers/ Graphic Designers to create intuitive website	
 - Work closely with multi-disciplinary teams to gather and understand requirements
 - Improve organization design process by influencing multiple stakeholders
