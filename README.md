@@ -8,9 +8,9 @@ description: Anu Iyer's Resume
 ### [Email](anubechem@gmail.com)/ [Linkedin](https://www.linkedin.com/in/anu-iyer) / [Website](https://anuportfolio.wixsite.com/mysite)
 
 ### AWARDS
--Top Prize Winner: Startup weekend by Google, Seattle
+- Top Prize Winner: Startup weekend by Google, Seattle
 
--Top Prize Winner: Fitbit Challenge in Angel Hack Contest, Seattle
+- Top Prize Winner: Fitbit Challenge in Angel Hack Contest, Seattle
 
 ### PROFESSIONAL EXPERIENCE
 
@@ -21,19 +21,13 @@ Super Purposes™ | Seattle, WA
 
 Designed a brand new website for Super Purposes that helps millions of job seekers find their dream job/careers  
 
-•	Develop user profiles, building user scenarios, analyzing user surveys and feedback
-
-•	Lead design thinking process including flows, wireframes, prototypes, high fidelity mockups and visual design specifications for  web and mobile
-
-•	Collaborate with 15 cross- functional stakeholders including Developers/ Content Writers/ Graphic Designers to create intuitive website	
-
-•	Work closely with multi-disciplinary teams to gather and understand requirements
-
-•	Improve organization design process by influencing multiple stakeholders
-
-•	Create a design system for the design team  
-
-•	Increase national awareness of our brand through quality analysis and usability testing
+- Develop user profiles, building user scenarios, analyzing user surveys and feedback
+- Lead design thinking process including flows, wireframes, prototypes, high fidelity mockups and visual design specifications for  web and mobile
+- Collaborate with 15 cross- functional stakeholders including Developers/ Content Writers/ Graphic Designers to create intuitive website	
+- Work closely with multi-disciplinary teams to gather and understand requirements
+- Improve organization design process by influencing multiple stakeholders
+- Create a design system for the design team  
+- Increase national awareness of our brand through quality analysis and usability testing
 
 **UX DESIGNER**
 Super Interns | Seattle, WA 
