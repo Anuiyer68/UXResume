@@ -9,7 +9,6 @@ description: Anu Iyer's Resume
 
 ### AWARDS
 -Top Prize Winner: Startup weekend by Google, Seattle
-
 -Top Prize Winner: Fitbit Challenge in Angel Hack Contest, Seattle
 
 ### PROFESSIONAL EXPERIENCE
