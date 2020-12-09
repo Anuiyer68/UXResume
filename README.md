@@ -54,49 +54,30 @@ Designed pages for responsive design for DocHelp project that helps users schedu
 
 
 ### SKILLS
-Lo/ Hi Fidelity Wireframing
-
-Lo/Hi Fidelity Prototyping
-
-Storyboarding
-
-Information Architecture
-
-Interaction Design
-
-Persona/Scenario
-
-Usability testing
-
-User Interview / Survey
-
-User Flows
-
-Rapid Prototyping
-
-UX Process
-
-HTML5 / CSS3
+- Lo/ Hi Fidelity Wireframing
+- Lo/Hi Fidelity Prototyping
+- Storyboarding
+- Information Architecture
+- Interaction Design
+- Persona/Scenario
+- Usability testing
+- User Interview / Survey
+- User Flows
+- Rapid Prototyping
+- UX Process
+- HTML5 / CSS3
 
 
 ### TOOLS
-Figma
-
-Axure
-
-Sketch
-
-Balsamiq
-
-Adobe XD
-
-Photoshop
-
-Invision
-
-Marvel
-
-Draw.io
+- Figma
+- Axure
+- Sketch
+- Balsamiq
+- Adobe XD
+- Photoshop
+- Invision
+- Marvel
+- Draw.io
 
 
 ### EDUCATION 
