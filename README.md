@@ -7,9 +7,24 @@
 - Top Prize Winner: Startup weekend by Google, Seattle
 - Top Prize Winner: Fitbit Challenge in Angel Hack Contest, Seattle
 
+#### SKILLS
+Wireframe | Prototype | Usability testing | Information Architecture | User Interview / Survey | User Flows
+Interaction Design | Persona/Scenario | HTML5 / CSS3 | Rapid Prototyping
+
+#### TOOLS
+- Figma
+- Axure
+- Sketch
+- Balsamiq
+- Adobe XD
+- Photoshop
+- Invision
+- Marvel
+- Draw.io
+
 #### PROFESSIONAL EXPERIENCE
 
-**UX DESIGNER**<br>
+**UX DESIGNER** <br>
 Super Purposes™ | Seattle, WA <br>
 (Jan 2019 - present) (Part Time)
 
@@ -22,7 +37,7 @@ Designed a brand new website for Super Purposes that helps millions of job seeke
 - Create a design system for the design team  
 - Increase national awareness of our brand through quality analysis and usability testing
 
-**UX DESIGNER**<br>
+**UX DESIGNER** <br>
 Super Interns | Seattle, WA <br>
 (Jan 2018 – Dec 2018) (Part Time)
 
@@ -47,25 +62,6 @@ Designed pages for responsive design for DocHelp project that helps users schedu
 (Jan 2010 – April 2013)
 
 - Worked in multiple company as a Design Engineer involved in designing of air handling units for pharmaceutical industries in India
-
-
-#### SKILLS
-Wireframe | Prototype | Usability testing | Information Architecture | User Interview / Survey | User Flows
-Interaction Design | Persona/Scenario | HTML5 / CSS3 | Rapid Prototyping
-
-
-
-
-#### TOOLS
-- Figma
-- Axure
-- Sketch
-- Balsamiq
-- Adobe XD
-- Photoshop
-- Invision
-- Marvel
-- Draw.io
 
 
 #### EDUCATION 
