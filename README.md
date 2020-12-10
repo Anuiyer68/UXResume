@@ -1,7 +1,7 @@
 
 # ANU IYER
 ### UX Designer based in Seattle,WA
-#### [Email](anubechem@gmail.com)/ [Linkedin](https://www.linkedin.com/in/anu-iyer) / [Website](https://anuportfolio.wixsite.com/mysite)
+#### [Email](anubechem@gmail.com) / [Linkedin](https://www.linkedin.com/in/anu-iyer) / [Website](https://anuportfolio.wixsite.com/mysite)
 
 #### AWARDS
 - Top Prize Winner: Startup weekend by Google, Seattle
