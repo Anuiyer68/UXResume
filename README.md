@@ -33,7 +33,6 @@
 
 
 #### PROFESSIONAL EXPERIENCE
-
 **UX DESIGNER** <br>
 Super Purposes™ | Seattle, WA <br>
 (Jan 2019 - present) (Part Time)
