@@ -1,17 +1,13 @@
-## MY RESUME
-title: UX DESIGNER
-description: Anu Iyer's Resume
-
 
 # ANU IYER
-## UX Designer based in Seattle,WA
-### [Email](anubechem@gmail.com)/ [Linkedin](https://www.linkedin.com/in/anu-iyer) / [Website](https://anuportfolio.wixsite.com/mysite)
+### UX Designer based in Seattle,WA
+#### [Email](anubechem@gmail.com)/ [Linkedin](https://www.linkedin.com/in/anu-iyer) / [Website](https://anuportfolio.wixsite.com/mysite)
 
-### AWARDS
+#### AWARDS
 - Top Prize Winner: Startup weekend by Google, Seattle
 - Top Prize Winner: Fitbit Challenge in Angel Hack Contest, Seattle
 
-### PROFESSIONAL EXPERIENCE
+#### PROFESSIONAL EXPERIENCE
 
 **UX DESIGNER**<br>
 Super Purposes™ | Seattle, WA <br>
@@ -47,20 +43,20 @@ Designed pages for responsive design for DocHelp project that helps users schedu
 -	Led usability test by developing test cases, documenting results & coordinating with developers
 
 
-**Multiple companies: Design Engineer** <br>
+**Multiple companies: DESIGN ENGINEER** <br>
 (Jan 2010 – April 2013)
 
 - Worked in multiple company as a Design Engineer involved in designing of air handling units for pharmaceutical industries in India
 
 
-### SKILLS
+#### SKILLS
 Wireframe | Prototype | Usability testing | Information Architecture | User Interview / Survey | User Flows
 Interaction Design | Persona/Scenario | HTML5 / CSS3 | Rapid Prototyping
 
 
 
 
-### TOOLS
+#### TOOLS
 - Figma
 - Axure
 - Sketch
@@ -72,7 +68,7 @@ Interaction Design | Persona/Scenario | HTML5 / CSS3 | Rapid Prototyping
 - Draw.io
 
 
-### EDUCATION 
+#### EDUCATION 
 **USER EXPERIENCE DESIGN CERTIFICATE**
 Bellevue College
 2016–2017
