@@ -13,9 +13,9 @@ description: Anu Iyer's Resume
 
 ### PROFESSIONAL EXPERIENCE
 
-**UX DESIGNER**
+**UX DESIGNER**<br>
 Super Purposes™ | Seattle, WA <br>
-(Jan 2019 - present)
+(Jan 2019 - present) (Part Time)
 
 Designed a brand new website for Super Purposes that helps millions of job seekers find their dream job/careers  
 - Develop user profiles, building user scenarios, analyzing user surveys and feedback
@@ -26,9 +26,9 @@ Designed a brand new website for Super Purposes that helps millions of job seeke
 - Create a design system for the design team  
 - Increase national awareness of our brand through quality analysis and usability testing
 
-**UX DESIGNER**
+**UX DESIGNER**<br>
 Super Interns | Seattle, WA <br>
-(Jan 2018 – Dec 2018)
+(Jan 2018 – Dec 2018) (Part Time)
 
 Redesigned the company website to improve the user experience by focusing on usability, aesthetics and accessible interface
 -	Developed Lo/Hi fidelity wireframes, interactive prototyping, mockups for company website
@@ -36,9 +36,9 @@ Redesigned the company website to improve the user experience by focusing on usa
 -	Responsible for all UI decisions including visual design
 
 
-**WEB DESIGNER**
+**WEB DESIGNER** <br>
 Invent IT Solutions | Bellevue, WA <br>
-(Jun 2014 – Jan 2016)
+(Jun 2014 – Jan 2016) (Part Time)
 
 Designed pages for responsive design for DocHelp project that helps users schedule appointments with their healthcare providers based on the availability
 - Improved overall user journey for login and booking pages to improve accessibility
@@ -54,18 +54,10 @@ Designed pages for responsive design for DocHelp project that helps users schedu
 
 
 ### SKILLS
-- Lo/ Hi Fidelity Wireframing
-- Lo/Hi Fidelity Prototyping
-- Storyboarding
-- Information Architecture
-- Interaction Design
-- Persona/Scenario
-- Usability testing
-- User Interview / Survey
-- User Flows
-- Rapid Prototyping
-- UX Process
-- HTML5 / CSS3
+Wireframe | Prototype | Usability testing | Information Architecture | User Interview / Survey | User Flows
+Interaction Design | Persona/Scenario | HTML5 / CSS3 | Rapid Prototyping
+
+
 
 
 ### TOOLS
