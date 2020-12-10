@@ -3,13 +3,18 @@
 ### UX Designer based in Seattle,WA
 #### [Email](anubechem@gmail.com) / [Linkedin](https://www.linkedin.com/in/anu-iyer) / [Website](https://anuportfolio.wixsite.com/mysite)
 
-#### AWARDS
-- Top Prize Winner: Startup weekend by Google, Seattle
-- Top Prize Winner: Fitbit Challenge in Angel Hack Contest, Seattle
-
 #### SKILLS
-Wireframe | Prototype | Usability testing | Information Architecture | User Interview / Survey | User Flows
-Interaction Design | Persona/Scenario | HTML5 / CSS3 | Rapid Prototyping
+- Wireframe
+- Prototype 
+- Usability testing 
+- Information Architecture 
+- Interaction Design 
+- User Interview / Survey
+- Persona/Scenario
+- User Flows
+- Rapid Prototyping
+- HTML5 / CSS3 
+- Rapid Prototyping
 
 #### TOOLS
 - Figma
@@ -21,6 +26,11 @@ Interaction Design | Persona/Scenario | HTML5 / CSS3 | Rapid Prototyping
 - Invision
 - Marvel
 - Draw.io
+
+#### AWARDS
+- Top Prize Winner: Startup weekend by Google, Seattle
+- Top Prize Winner: Fitbit Challenge in Angel Hack Contest, Seattle
+
 
 #### PROFESSIONAL EXPERIENCE
 
